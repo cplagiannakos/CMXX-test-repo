@@ -1,6 +1,6 @@
 # CMXX Data Repository
 
-The purpose of this repository is to
+This repository is designed to manage, organize, and store code for CMXX, serving as a version control tool that can be used to enhance collaboration, and integration with other applications (e.g., R, PowerBi). It can also function as a pseudo-handbook for CMXX, providing centralized documentation relating to methods and data analysis.
 
 ## About
 
